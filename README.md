@@ -1,17 +1,68 @@
-### hello everyone 👋
+<img src="co pic 130.jpg" alt="crazy photo banner">
 
-<!--
-**Starwave2006/Starwave2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[code](https://www.google.com/search?q=code+gif+wallpaper&tbm=isch&ved=2ahUKEwjthaKYpvv3AhXQi-AKHb-yBsoQ2-cCegQIABAA&oq=code+gif+w&gs_lcp=CgNpbWcQARgAMgUIABCABDIGCAAQHhAFMgYIABAeEAUyBggAEB4QCDIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDIGCAAQHhAIOgcIABCxAxBDOggIABCABBCxAzoLCAAQgAQQsQMQgwE6BAgAEEM6BAgAEB5Q0QVY3R5g4y1oAHAAeACAAT6IAYEDkgEBN5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=xHeOYu2TONCXgge_5ZrQDA&bih=657&biw=1349&hl=en#imgrc=O85TTEKDP1UUVM)
+# Hello Evrybody! #
+
+### Welcome to my github prfile. You can find more information about me below. ###
+
+ <details> 
+
+ <summary><u> My goals in life </u> </summary>
+
+ 
+
+ 1. Graduate high school.    
+
+ 
+
+ 2. Get a computer science degree. 
+
+
+
+ 3. Recive a softwere development job in Nintendo. 
+
+ </details>
+
+
+
+<details>
+
+
+
+<summary> <u> My personal intrest's </u> </summary>
+
+
+
+  1. Reading
+
+  2. Drawing 
+
+  3. Playing Video Games
+
+  4. Music
+
+  5. Anime 
+
+
+
+</details>
+
+
+
+<details>
+
+<summary><u> The languages i'm learning </u></summary>
+
+
+
+   1. HTML
+
+   2. CSS
+
+   3. Java Script
+
+   4. Python
+
+</details>
+
