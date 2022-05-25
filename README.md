@@ -20,7 +20,7 @@
 
 
 
- 3. Recive a softwere development job in Nintendo. 
+ 3. Recive a softwere development job at Nintendo. 
 
  </details>
 
